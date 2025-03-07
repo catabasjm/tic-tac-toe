@@ -8,3 +8,6 @@ TO RUN:
 To run the multiplayer:
   the first tab will be the chosen symbol or player,
   open another tab and copy the url to run the other player.
+
+Note:
+  to redirect home just click the logo(Tic-Tac-Toe) at the navbar
