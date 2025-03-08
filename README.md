@@ -2,7 +2,7 @@
 
 TO RUN:
   download file and extract
-  open folder in Microsoft Visual Studio and click file .sln (i am using Net 9.0)
+  open folder in Microsoft Visual Studio and click file .sln (i am using .NET SDK version '9.0.200')
   click run at the top of the file (http).
 
 To run the multiplayer:
